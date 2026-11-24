@@ -1,0 +1,6 @@
+# Your own config holds your wallet address - never commit it.
+my-config.json
+*.local.json
+__pycache__/
+*.pyc
+.env
